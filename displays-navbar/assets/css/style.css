@@ -1,0 +1,25 @@
+ul{
+  background-color: #000000;
+}
+
+li{
+  font-family: fantasy;
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+
+a{
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+}
+
+a:hover{
+  color: #A3F500;
+}
+
+span{
+  color: #E91E63;
+  margin: 0 100px;
+}
